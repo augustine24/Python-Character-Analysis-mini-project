@@ -1,1 +1,1 @@
-# Python-project-1
+# Paste the code into something like visual studio or rextester.com, set the language to Python and it should ask a question. Answer the questions to receive the necessary results in the comments. Enjoy!
