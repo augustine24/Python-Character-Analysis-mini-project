@@ -2,7 +2,7 @@
 #Each skill takes 5 skill points to master, and he is at level 3 already.
 #Ken only wants to learn skills that will do at least 1000 damage after putting 5 skill points into them.
 #Here are the skills. Thrust, DashAttack, Thrash, OverheadSwing & Behead
-#All of this is accounting for Ken being level 15. DO NOT PUT A NUMBER BELOW 15
+#All of this is accounting for Ken being level 15. DO NOT PUT A NUMBER BELOW 15 WHEN ASKED TO ENTER A LEVEL.
 def menu():
     print("[1]Ken is still too weak")
     print("[2]Ken is of average strength")
