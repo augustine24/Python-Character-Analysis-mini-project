@@ -7,7 +7,7 @@ def menu():
     print("[2]Ken is of average strength")
     print("[3]Ken is very powerful")
     print("[0]System error")
-Ken_level = int(input("Enter your level: "))
+Ken_level = int(input("Enter the number of your level: "))
 if Ken_level < 15 and Ken_level > 0:
     print("Ken is still too weak")
 elif Ken_level < 25:
